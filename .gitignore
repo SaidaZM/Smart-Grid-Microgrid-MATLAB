@@ -20,3 +20,4 @@ codegen/
 *.log
 .DS_Store
 Thumbs.db
+*.pdf
